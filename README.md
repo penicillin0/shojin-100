@@ -12,3 +12,5 @@
   - https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_c
 - 05
   - https://atcoder.jp/contests/abc095/tasks/arc096_a
+- 06
+  - https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d
