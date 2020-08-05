@@ -18,5 +18,5 @@
   - https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_c
 - [x] 08
   - https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b
-- [ ] 09
+- [x] 09
   - https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d
