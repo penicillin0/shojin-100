@@ -20,3 +20,5 @@
   - https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b
 - [x] 09
   - https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d
+- [x] 10
+  - http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja
