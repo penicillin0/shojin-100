@@ -24,3 +24,5 @@
   - http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja
 - [x] 11
   - https://atcoder.jp/contests/abc128/tasks/abc128_c
+- [x] 12
+  - https://atcoder.jp/contests/abc002/tasks/abc002_4
