@@ -20,6 +20,8 @@ def main(n, m, relations)
   max_number_of_faction
 end
 
+puts main(n, m, relations)
+
 # require 'minitest/autorun'
 
 # class FooTest < Minitest::Test
