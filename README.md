@@ -28,3 +28,5 @@
   - https://atcoder.jp/contests/abc002/tasks/abc002_4
 - [x] 13
   - https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e
+- [x] 14
+ - https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b
